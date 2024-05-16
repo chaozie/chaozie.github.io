@@ -13,7 +13,8 @@ header {
 	padding: 5px;
 	border-radius: 10px;
 	border-style: groove;
-	border-color: rgb(135, 110, 223);
+	border-color: rgb(240, 253, 204);
+/*	border-color: rgb(135, 110, 223);
 	border-top-color: rgb(219, 3, 169);
-	border-bottom-color: rgb(99, 206, 196);
+	border-bottom-color: rgb(99, 206, 196);*/
 }
