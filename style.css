@@ -20,7 +20,7 @@ div {
 	border-top-color: rgb(219, 3, 169);
 	border-bottom-color: rgb(99, 206, 196);*/
 }
-#life-updates {
+.life-updates {
 	text-align: center;
 	width: 25%;
 	float: right;
